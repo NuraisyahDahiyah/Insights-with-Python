@@ -57,7 +57,7 @@ Although Objective 3 aimed to segment customers by churn risk using key features
 # Conclusion 
 This study shows how effective data mining methods can be in identifying and resolving client attrition.  Through the methodical use of techniques like rule-based segmentation, decision tree modeling, and feature importance analysis, we were able to glean valuable insights from what would otherwise be unprocessed consumer data.  These methods were essential for both determining the factors that contribute to churn and converting those discoveries into workable retention tactics.
 
-Ultimately, this case study illustrates that data mining is not only a valuable analytical tool but also a practical one. It enabled us to move from raw customer records to strategic, insight-led decision-making. The techniques applied in this study—particularly feature importance scoring, interpretable decision tree modeling, and structured segmentation—provided clarity, direction, and evidence-based prioritization for churn reduction efforts.
+Ultimately, this case study illustrates that data mining is not only a valuable analytical tool but also a practical one. It enabled us to move from raw customer records to strategic, insight-led decision-making. The techniques applied in this study provided clarity, direction, and evidence-based prioritization for churn reduction efforts.
 
 
 
